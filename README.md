@@ -1,2 +1,4 @@
 # PHUBComment
-Generate own pornhub comment
+# Generate own pornhub comment
+
+Needs PIL (PILLOW).
